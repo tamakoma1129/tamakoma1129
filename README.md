@@ -1,4 +1,18 @@
-### Hi there 👋
+tamakoma
+=====
+こんにちは！　私は初音ミクとプログラミングが大好きな大学生です。
+-   ⚒️:Python / SwiftUI
+-   🎹:Cubase / Vocaloid4 / UTAU
+-   My blog is https://tamakoma.com/category/python/
+-   My music is https://soundcloud.com/user-935976979
+
+[![tamakoma](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftamakoma)](https://atcoder.jp/users/tamakoma) <!-- Atcoder -->
+<img src="https://komarev.com/ghpvc/?username=tamakoma1129&label=Profile%20views&color=0e75b6&style=flat" alt="tamakoma1129" /> </p> <!-- アクセス数　-->
+-----
+
+### 制作物
+[![Atcoderの情報通知bot](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=DiscordBotAtcoder)](https://github.com/tamakoma1129/DiscordBotAtcoder)
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamakoma1129&layout=compact&theme=panda&show_icons=true" />
@@ -15,5 +29,5 @@
 ![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/3-stats.svg)
 ![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/4-productive-time.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamakoma1129&label=Profile%20views&color=0e75b6&style=flat" alt="tamakoma1129" /> </p>
+
 
