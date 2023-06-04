@@ -9,7 +9,11 @@
 )]
 
 <!-- ここはGitHub Actionsで自動化しないと更新されないらしいよ -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamakoma1129&theme=monokai)
+![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/0-profile-details.svg)
+![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/3-stats.svg)
+![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/4-productive-time.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamakoma1129&label=Profile%20views&color=0e75b6&style=flat" alt="tamakoma1129" /> </p>
 
