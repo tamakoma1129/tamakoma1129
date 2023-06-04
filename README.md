@@ -13,7 +13,7 @@ tamakoma
 ### 制作物
 [![Atcoderの情報通知bot](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=DiscordBotAtcoder)](https://github.com/tamakoma1129/DiscordBotAtcoder)
 
-
+-----
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamakoma1129&layout=compact&theme=panda&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tamakoma1129&layout=compact&theme=panda&show_icons=true" />
