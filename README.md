@@ -20,8 +20,8 @@ tamakoma
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tamakoma1129&layout=compact&theme=panda&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamakoma1129&theme=dracula&column=7
-)]
+![trophy](https://github-profile-trophy.vercel.app/?username=tamakoma1129&theme=dracula&column=7
+)
 
 <!-- ここはGitHub Actionsで自動化しないと更新されないらしいよ -->
 ![](https://raw.githubusercontent.com/tamakoma1129/tamakoma1129/main/profile-summary-card-output/panda/0-profile-details.svg)
