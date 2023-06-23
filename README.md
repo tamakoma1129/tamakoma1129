@@ -1,6 +1,6 @@
 tamakoma
 =====
-こんにちは！　私は初音ミクとプログラミングが大好きな大学生です。
+こんにちは！　私は音楽とプログラミングが大好きな大学生です。
 -   ⚒️:Python / SwiftUI
 -   🎹:Cubase / Vocaloid4 / UTAU
 -   My blog is https://tamakoma.com/category/python/
