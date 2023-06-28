@@ -12,7 +12,7 @@ tamakoma
 
 ### 制作物
 [![べんミル](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=BenMiru-App)](https://github.com/tamakoma1129/BenMiru-App)
-[![Atcoderの情報通知bot](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=DiscordBotAtcoder)](https://github.com/tamakoma1129/DiscordBotAtcoder)
+[![SoundJudgeChan](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=SoundJudgeChan)](https://github.com/tamakoma1129/SoundJudgeChan)
 
 -----
 <p align="left"> 
