@@ -5,7 +5,7 @@ tamakoma
 -   OS:Windows / Mac / Linux(AlmaLinux)
 -   🎹:Cubase / VOCALOID4 / UTAU
 -   My blog is https://tamakoma.com/category/python/
--   My music is https://soundcloud.com/user-935976979
+-   My music is https://soundcloud.com/tamakoma
 
 [![tamakoma](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftamakoma)](https://atcoder.jp/users/tamakoma) <!-- Atcoder -->
 <img src="https://komarev.com/ghpvc/?username=tamakoma1129&label=Profile%20views&color=0e75b6&style=flat" alt="tamakoma1129" /> </p> <!-- アクセス数　-->
