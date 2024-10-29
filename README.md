@@ -1,7 +1,7 @@
 tamakoma
 =====
 こんにちは！　私は音楽とプログラミングが大好きな大学生です。
--   ⚒️: Python / SwiftUI / PHP / Laravel
+-   ⚒️: Python / SwiftUI / PHP / Laravel / Astro
 -   OS: Windows / Mac / Linux(AlmaLinux)
 -   🎹: FLStudio / Cubase / VOCALOID4 / UTAU /
 -   My blog is https://tamakoma.com/category/python/
