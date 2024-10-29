@@ -4,7 +4,7 @@ tamakoma
 -   ⚒️: Python / SwiftUI / PHP / Laravel / Astro
 -   OS: Windows / Mac / Linux(AlmaLinux)
 -   🎹: FLStudio / Cubase / VOCALOID4 / UTAU /
--   My blog is https://tamakoma.com/category/python/
+-   My blog is https://tamakoma.com/blog/
 -   My music is https://soundcloud.com/tamakoma
 
 [![tamakoma](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftamakoma)](https://atcoder.jp/users/tamakoma) <!-- Atcoder -->
