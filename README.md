@@ -1,8 +1,8 @@
 tamakoma
 =====
-こんにちは！　私は音楽とプログラミングが大好きな大学生です。
+こんにちは！　私は音楽・初音ミク・重音テトが大好きなWebエンジニアです。
 -   ⚒️: Python / SwiftUI / PHP / Laravel / Astro
--   OS: Windows / Mac / Linux(AlmaLinux)
+-   OS: Windows / Mac / Linux(AlmaLinux/Kubuntu)
 -   🎹: FLStudio / Cubase / VOCALOID4 / UTAU /
 -   My blog is https://tamakoma.com/blog/
 -   My music is https://soundcloud.com/tamakoma
