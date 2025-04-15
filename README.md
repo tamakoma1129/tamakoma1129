@@ -12,6 +12,7 @@ tamakoma
 -----
 
 ### 制作物
+[![ぺけコレクション](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=PekeCollection)](https://github.com/tamakoma1129/PekeCollection)
 [![べんミル](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=BenMiru-App)](https://github.com/tamakoma1129/BenMiru-App)
 [![SoundJudgeChan](https://github-readme-stats.vercel.app/api/pin/?username=tamakoma1129&repo=SoundJudgeChan)](https://github.com/tamakoma1129/SoundJudgeChan)
 
